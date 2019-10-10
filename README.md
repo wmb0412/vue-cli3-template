@@ -7,7 +7,7 @@
 ### clone 项目到本地
 
 ```
-https://github.com/LuLuCodes/easy-front-vue-cli3.git
+https://github.com/wmb0412/easy-front-vue-cli3.git
 
 ```
 
